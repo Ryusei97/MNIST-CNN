@@ -5,7 +5,7 @@ The model can be tested by downloading "digits_v2.py" and "digit_recognizer_mode
 
 ## CNN Model
 
-A Convolutional Neural Network was used for the prediction project. The structure and the training graphs are shown below. 
+A Convolutional Neural Network was used for model. The structure and the training graphs are shown below. 
 
 <img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/my_model.png" alt="alt text" width=500 height=1000>
 
