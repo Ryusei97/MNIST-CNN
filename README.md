@@ -6,7 +6,7 @@ The goal of this project was to create a model for the MNIST data set and also c
 
 A Convolutional Neural Network was used for the prediction project. The structure and the training graphs are shown below. 
 
-![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/my_model.png | width=100)
+![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/my_model.png) <img src="url" alt="alt text" width=250 height=500>
 
 ![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/accuracy_loss.png | width=100)
 
