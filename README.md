@@ -6,14 +6,14 @@ The goal of this project was to create a model for the MNIST data set and also c
 
 A Convolutional Neural Network was used for the prediction project. The structure and the training graphs are shown below. 
 
-![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/my_model.png) <img src="url" alt="alt text" width=250 height=500/>
+<img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/my_model.png" alt="alt text" width=250 height=500>
 
-![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/accuracy_loss.png) <img src="url" alt="alt text" width=250 height=250/>
+<img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/accuracy_loss.png" alt="alt text" width=250 height=250>
 
-![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/accuracy_val_accuracy.png) <img src="url" alt="alt text" width=250 height=250/>
+<img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/accuracy_val_accuracy.png" alt="alt text" width=250 height=250>
 
 ## Draw and Predict App 
 
-![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/Demo1.png) <img src="url" alt="alt text" width=250 height=250/>
+<img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/Demo1.png" alt="alt text" width=250 height=250>
 
-![alt text](https://github.com/Ryusei97/MNIST-CNN/blob/main/Demo2.png) <img src="url" alt="alt text" width=250 height=250/>
+<img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/Demo2.png" alt="alt text" width=250 height=250>
