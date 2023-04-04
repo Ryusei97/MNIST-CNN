@@ -15,7 +15,7 @@ A Convolutional Neural Network was used for model. The structure and the trainin
 
 ## Draw and Predict App 
 
-Examples of the app are shown below. The model is able to predict the correct letter more than 99% of the time including pretty poorly written numbers. 
+Tkinter was used for a canvas to draw numbers on and to display the predictions. Examples are shown below. The model is able to predict the correct letter more than 99% of the time including pretty poorly written numbers. 
 
 <img src="https://github.com/Ryusei97/MNIST-CNN/blob/main/Demo1.png" alt="alt text" width=250 height=250>
 
