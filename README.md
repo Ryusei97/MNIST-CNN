@@ -1,7 +1,7 @@
 # MNIST-CNN
 
 The goal of this project was to create a model for the MNIST data set and also create a simple python app to test the model in real time.
-The model can be tested by downloading "digits_v2.py" and "digit_recognizer_model". The model can also be created from scratch by running "digit_recognition_model.ipynb".
+The model can be tested by downloading `digits_v2.py` and `digit_recognizer_model`. The model can also be created from scratch by running `digit_recognition_model.ipynb`.
 
 ## CNN Model
 
